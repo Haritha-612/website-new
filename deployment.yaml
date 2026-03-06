@@ -17,5 +17,5 @@ spec:
         image: nelakurthiharitha/test:latest
         imagePullPolicy: Always
         ports:
-        - containerport: 80
+        - containerPort: 80
         
